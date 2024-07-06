@@ -7,7 +7,7 @@
 
 ## Main features:
 
-* ### MIDI classification
+* ### Detailed MIDI classification
 * ### Classified music generation
 
 ***
