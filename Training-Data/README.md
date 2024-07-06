@@ -1,4 +1,4 @@
-# Ultimate MIDI Classifier Training Code
+# Ultimate MIDI Classifier Training Dataset Maker
 
 ***
 
