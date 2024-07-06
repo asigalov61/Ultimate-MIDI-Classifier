@@ -1,7 +1,7 @@
 # Ultimate MIDI Classifier
 Classify absolutely any MIDI by artist, song and genre
 
-![Ultimate-MIDI-Classifier-Logo](https://github.com/asigalov61/Ultimate-MIDI-Classifier/assets/56325539/b9e7cc52-9199-43d4-b93c-9add9588cc8c)
+![Ultimate-MIDI-Classifier-Artwork-1](https://github.com/asigalov61/Ultimate-MIDI-Classifier/assets/56325539/4dcfb595-0e22-44e9-99fb-0ca6ccafc6c5)
 
 ***
 
