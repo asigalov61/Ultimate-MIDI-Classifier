@@ -18,15 +18,8 @@
 
 ## Main features:
 
-* ### Detailed MIDI classification
-* ### Classified music generation
-
-***
-
-## Implementation notes
-
-* ### ...
-* ### ...
+* ### Detailed MIDI classification by genre, song and artist
+* ### Auto-regressive classified music generation
 
 ***
 
