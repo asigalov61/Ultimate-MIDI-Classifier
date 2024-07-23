@@ -422,7 +422,7 @@ for i, res in enumerate(results):
   song_artist = song_artist_tokens_to_song_artist(result_toks)
   gidx = genre_labels_fnames.index(song_artist)
   genre = genre_labels[gidx][1]
-  print('Notes', i*samples_overlap, '-', (i*samples_overlap)+340, '===', genre, '---', song_artist)
+  print('Notes', i*(340-samples_overlap), '-', (i*(340-samples_overlap))+340, '===', genre, '---', song_artist)
 
   artist_label = str_strip_artist(song_artist.split(' --- ')[1])
 
