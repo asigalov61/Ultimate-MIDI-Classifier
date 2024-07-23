@@ -264,7 +264,7 @@ def ClassifyMIDI(input_midi, input_sampling_resolution):
         gidx = genre_labels_fnames.index(song_artist)
         genre = genre_labels[gidx][1]
         
-        print('Notes', i*samples_overlap, '-', (i*samples_overlap)+340, '===', genre, '---', song_artist)
+        print('Notes', i*(340-samples_overlap), '-', (i*(340-samples_overlap))+340, '===', genre, '---', song_artist)
         classification_summary_string += 'Notes ' + str(i*samples_overlap) + ' - ' +  str((i*samples_overlap)+340) + ' === ' + str(genre) + ' --- ' + str(song_artist) + '\n'
         
         artist_label = str_strip_artist(song_artist.split(' --- ')[1])
