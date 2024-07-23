@@ -11,7 +11,7 @@
 
 ***
 
-## Recommended MIDI datasets:
+## Recommended MIDI dataset:
 
 ### 1) [Annotated MIDI Dataset](https://huggingface.co/datasets/asigalov61/Annotated-MIDI-Dataset) (included with code/colab)
 
