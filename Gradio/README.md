@@ -1,3 +1,7 @@
+# Ultimate MIDI Classifier Gradio App
+
+***
+
 ---
 title: Ultimate MIDI Classifier
 emoji: 🔥
@@ -23,3 +27,8 @@ tags:
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+***
+
+### Project Los Angeles
+### Tegridy Code 2024
